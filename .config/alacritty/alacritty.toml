@@ -1,4 +1,3 @@
-import = ["/Users/dk000258/.config/alacritty/tokyonight_dark.toml"]
 
 [font]
-size = 14.0
+size = 12.0
